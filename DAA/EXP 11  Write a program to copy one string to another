@@ -1,0 +1,4 @@
+source_str = input("Enter the source string: ")
+destination_str = source_str
+print("Source string:", source_str)
+print("Destination string:", destination_str)
